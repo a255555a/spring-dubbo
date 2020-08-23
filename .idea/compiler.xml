@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="v10-web" />
+        <module name="v10-mapper" />
+        <module name="v10-commons" />
+        <module name="v10-temp" />
+        <module name="v10-center" />
+        <module name="v10-entity" />
+        <module name="v10-product-service" />
+        <module name="v10-product-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="v10-product-api" target="1.5" />
+      <module name="v10-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="v10-center" options="-parameters" />
+      <module name="v10-product-service" options="-parameters" />
+    </option>
+  </component>
+</project>

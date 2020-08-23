@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82aeea63-f2f4-4c34-a817-b218b1f77f81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/v10-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-api/v10-product-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-basic/v10-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-basic/v10-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-basic/v10-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-basic/v10-mapper/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-temp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10-web/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.5.0\mavenrepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1gThAZgWTbigrpdCzdkDk0OQ56g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JN" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.testmbg (1)">
+    <configuration name="testmbg (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ly.testmbg" />
+      <module name="v10-mapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testmbg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testmbg" />
+      <module name="v10-mapper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V10CenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v10-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ly.v10center.V10CenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V10ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v10-product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ly.v10productservice.V10ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.testmbg" />
+      <item itemvalue="Application.testmbg (1)" />
+      <item itemvalue="Spring Boot.V10CenterApplication" />
+      <item itemvalue="Spring Boot.V10ProductServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testmbg (1)" />
+        <item itemvalue="Application.testmbg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82aeea63-f2f4-4c34-a817-b218b1f77f81" name="Default Changelist" comment="" />
+      <created>1598144348098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598144348098</updated>
+      <workItem from="1598144354143" duration="5260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
